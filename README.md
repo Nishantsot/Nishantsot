@@ -121,25 +121,7 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
   />
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Nishantsot&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantsot&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -150,16 +132,6 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
   />
 </p>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Nishantsot&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
 
 
 
