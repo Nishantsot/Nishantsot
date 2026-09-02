@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Nishant Kumar Banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
 
 <h3 align="center">
