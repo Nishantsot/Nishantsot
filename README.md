@@ -16,8 +16,8 @@
     <img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
-  <a href="https://learn-mate-frontend.vercel.app/">
-    <img src="https://img.shields.io/badge/LearnMate-Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://github.com/Nishantsot">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
 </p>
@@ -25,3 +25,41 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nishantsot&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge"/>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name: Nishant Kumar
+role: Full Stack Developer
+
+frontend:
+  - React.js
+  - JavaScript
+  - HTML
+  - CSS
+  - Bootstrap
+
+backend:
+  - Java
+  - Spring Boot
+  - FastAPI
+  - REST APIs
+
+database:
+  - MySQL
+  - PostgreSQL
+
+generative_ai:
+  - Generative AI
+  - RAG
+  - Gemini API
+
+devops:
+  - Git
+  - GitHub
+  - Docker
+  - CI/CD
+  - Vercel
+  - Render
