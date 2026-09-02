@@ -50,7 +50,7 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
 &nbsp;
 <a href="https://learn-mate-frontend.vercel.app/"><img src="https://img.shields.io/badge/LearnMate-Live%20Demo-8A2BE2?style=for-the-badge" alt="LearnMate"></a>
 &nbsp;
-<a href="YOUR_DEVMIND_LIVE_URL"><img src="https://img.shields.io/badge/DevMind-Live%20Demo-00E5FF?style=for-the-badge" alt="DevMind"></a>
+<a href="https://devmind-frontend-ten.vercel.app/"><img src="https://img.shields.io/badge/DevMind-Live%20Demo-00E5FF?style=for-the-badge" alt="DevMind"></a>
 </p>
 
 
@@ -123,30 +123,30 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
 
 ---
 
-## 🔥 Contribution Streak
+## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Nishantsot&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="Nishant Kumar GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api?username=Nishantsot&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantsot&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
   />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Contribution Streak
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Nishantsot&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantsot&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    src="https://streak-stats.demolab.com?user=Nishantsot&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -156,13 +156,12 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Nishantsot&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub Contribution Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Nishantsot&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
   />
 </p>
 
----
+
 
 ## 💻 Developer Focus
 
