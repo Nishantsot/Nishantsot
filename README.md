@@ -57,29 +57,31 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
 
 # 🚀 Projects
 
+<h1 align="center">🚀 Projects</h1>
+
 <p align="center">
 
   <a href="https://society-frontend-39w5.onrender.com/">
     <img
-      src="https://img.shields.io/badge/🏢_Society_Portal-Live_Demo-00C7B7?style=for-the-badge"
+      src="https://img.shields.io/badge/Society%20Portal-Live%20Demo-00C7B7?style=for-the-badge"
       alt="Society Portal"
     />
   </a>
 
-  <br><br>
+  &nbsp;&nbsp;
 
   <a href="https://learn-mate-frontend.vercel.app/">
     <img
-      src="https://img.shields.io/badge/🎓_LearnMate-Live_Demo-8A2BE2?style=for-the-badge"
+      src="https://img.shields.io/badge/LearnMate-Live%20Demo-8A2BE2?style=for-the-badge"
       alt="LearnMate"
     />
   </a>
 
-  <br><br>
+  &nbsp;&nbsp;
 
   <a href="YOUR_DEVMIND_LIVE_URL">
     <img
-      src="https://img.shields.io/badge/🧠_DevMind-Live_Demo-00E5FF?style=for-the-badge"
+      src="https://img.shields.io/badge/DevMind-Live%20Demo-00E5FF?style=for-the-badge"
       alt="DevMind"
     />
   </a>
@@ -87,17 +89,6 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
 </p>
 
 <br>
-
-# ⚡ My Development Stack
-
-<p align="center">
-
-  <img
-    src="https://skillicons.dev/icons?i=java,spring,react,js,python,fastapi,mysql,postgres,docker,git,github,postman,vscode&perline=7"
-    alt="Development Stack"
-  />
-
-</p>
 
 <br>
 
