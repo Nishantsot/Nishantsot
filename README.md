@@ -10,57 +10,44 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nishant-kumar-756469270/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:nishantkumar8357@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://nishant-portfolio-black.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-purple"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
+
+---
 
 ## 👨‍💻 About Me
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+%2B+Spring+Boot+Developer;React.js+Developer;Generative+AI+Enthusiast;Building+AI-Powered+Applications"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+%2B+Spring+Boot+Developer;React.js+Developer;Building+Generative+AI+Applications"
     alt="Typing Animation"
   />
 </p>
 
 <p align="center">
-  I am a <b>Full Stack Developer</b> working with Java, Spring Boot,
-  React.js, REST APIs, MySQL and PostgreSQL.
+  Full Stack Developer working with
+  <b>Java, Spring Boot, React.js, REST APIs, MySQL and PostgreSQL</b>.
 </p>
 
 <p align="center">
   Building and exploring applications using
-  <b>Generative AI, RAG and Gemini API.</b>
+  <b>Generative AI, RAG and Gemini API</b>.
 </p>
 
-<p align="center">
+---
 
-  <img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-  <img src="https://img.shields.io/badge/GenAI-AI_Development-8A2BE2?style=for-the-badge"/>
-
-</p>
-
-<br>
-
-# 🚀 Projects
-
-<h1 align="center">🚀 Projects</h1>
+## 🚀 Projects
 
 <p align="center">
-
   <a href="https://society-frontend-39w5.onrender.com/">
     <img
       src="https://img.shields.io/badge/Society%20Portal-Live%20Demo-00C7B7?style=for-the-badge"
@@ -85,14 +72,11 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
       alt="DevMind"
     />
   </a>
-
 </p>
 
-<br>
+---
 
-<br>
-
-# 🛠️ Skills
+## 🛠️ Skills
 
 <details>
 <summary><b>💻 Programming Languages</b></summary>
@@ -103,7 +87,6 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
 
 </details>
 
-
 <details>
 <summary><b>🎨 Frontend Development</b></summary>
 
@@ -112,7 +95,6 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
 `HTML` • `CSS` • `JavaScript` • `React.js` • `Bootstrap` • `Axios`
 
 </details>
-
 
 <details>
 <summary><b>⚙️ Backend Development</b></summary>
@@ -123,7 +105,6 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
 
 </details>
 
-
 <details>
 <summary><b>🗄️ Databases</b></summary>
 
@@ -132,7 +113,6 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
 `MySQL` • `PostgreSQL`
 
 </details>
-
 
 <details>
 <summary><b>🤖 Generative AI & Machine Learning</b></summary>
@@ -143,7 +123,6 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
 
 </details>
 
-
 <details>
 <summary><b>♾️ DevOps & Tools</b></summary>
 
@@ -153,7 +132,18 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
 
 </details>
 
-<br>
+---
+
+## ⚡ Development Stack
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,spring,react,js,python,fastapi,mysql,postgres,docker,git,github,postman,vscode&perline=7"
+    alt="Development Stack"
+  />
+</p>
+
+---
 
 ## 🔥 Contribution Streak
 
@@ -163,19 +153,15 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
     alt="Nishant Kumar GitHub Streak"
   />
 </p>
-# 💻 Developer Focus
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  🎨 Frontend     → React.js • JavaScript • Bootstrap   │
-│                                                         │
-│  ⚙️ Backend      → Java • Spring Boot • FastAPI        │
-│                                                         │
-│  🗄️ Database     → MySQL • PostgreSQL                  │
-│                                                         │
-│  🤖 AI           → GenAI • RAG • Gemini API            │
-│                                                         │
-│  🐳 DevOps       → Docker • Git • GitHub • CI/CD       │
-│                                                         │
-│  🚀 Deployment   → Vercel • Render                     │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+
+---
+
+## 💻 Developer Focus
+
+```text
+Frontend      → React.js • JavaScript • Bootstrap
+Backend       → Java • Spring Boot • FastAPI
+Database      → MySQL • PostgreSQL
+AI            → GenAI • RAG • Gemini API
+DevOps        → Docker • Git • GitHub • CI/CD
+Deployment    → Vercel • Render
