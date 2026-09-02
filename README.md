@@ -79,3 +79,70 @@ Git • GitHub • Docker • CI/CD
 <p align="center">
 ⭐ Nishant Kumar ⭐
 </p>
+---
+
+# 📊 GitHub Activity & Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Nishantsot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="170"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantsot&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Nishantsot&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Nishantsot&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Nishantsot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+    width="100%"
+  />
+</p>
+
+---
+
+## ⚡ My Development Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,python,fastapi,mysql,postgres,docker,git,github,postman,vscode&perline=7"/>
+</p>
+
+---
+
+## 💻 Developer Focus
+
+```text
+Frontend          React.js • JavaScript • Bootstrap
+Backend           Java • Spring Boot • FastAPI
+Database          MySQL • PostgreSQL
+AI                GenAI • RAG • Gemini API
+DevOps            Docker • Git • GitHub • CI/CD
+Deployment        Vercel • Render
