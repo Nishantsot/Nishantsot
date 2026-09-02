@@ -47,32 +47,31 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
 
 ## 🚀 Projects
 
-<p align="center">
-  <a href="https://society-frontend-39w5.onrender.com/">
-    <img
-      src="https://img.shields.io/badge/Society%20Portal-Live%20Demo-00C7B7?style=for-the-badge"
-      alt="Society Portal"
-    />
-  </a>
+## 🚀 Projects
 
-  &nbsp;&nbsp;
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://society-frontend-39w5.onrender.com/">
+        <img src="https://img.shields.io/badge/SOCIETY_PORTAL-LIVE_DEMO-00C7B7?style=for-the-badge" alt="Society Portal"/>
+      </a>
+    </td>
 
-  <a href="https://learn-mate-frontend.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/LearnMate-Live%20Demo-8A2BE2?style=for-the-badge"
-      alt="LearnMate"
-    />
-  </a>
+    <td align="center">
+      <a href="https://learn-mate-frontend.vercel.app/">
+        <img src="https://img.shields.io/badge/LEARNMATE-LIVE_DEMO-8A2BE2?style=for-the-badge" alt="LearnMate"/>
+      </a>
+    </td>
 
-  &nbsp;&nbsp;
+    <td align="center">
+      <a href="YOUR_DEVMIND_LIVE_URL">
+        <img src="https://img.shields.io/badge/DEVMIND-LIVE_DEMO-00E5FF?style=for-the-badge" alt="DevMind"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="YOUR_DEVMIND_LIVE_URL">
-    <img
-      src="https://img.shields.io/badge/DevMind-Live%20Demo-00E5FF?style=for-the-badge"
-      alt="DevMind"
-    />
-  </a>
-</p>
+---
 
 ---
 
