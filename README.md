@@ -47,31 +47,38 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
 
 ## 🚀 Projects
 
-## 🚀 Projects
-
 <table align="center">
   <tr>
+
     <td align="center">
       <a href="https://society-frontend-39w5.onrender.com/">
-        <img src="https://img.shields.io/badge/SOCIETY_PORTAL-LIVE_DEMO-00C7B7?style=for-the-badge" alt="Society Portal"/>
+        <img
+          src="https://img.shields.io/badge/SOCIETY_PORTAL-LIVE_DEMO-00C7B7?style=for-the-badge"
+          alt="Society Portal"
+        />
       </a>
     </td>
 
     <td align="center">
       <a href="https://learn-mate-frontend.vercel.app/">
-        <img src="https://img.shields.io/badge/LEARNMATE-LIVE_DEMO-8A2BE2?style=for-the-badge" alt="LearnMate"/>
+        <img
+          src="https://img.shields.io/badge/LEARNMATE-LIVE_DEMO-8A2BE2?style=for-the-badge"
+          alt="LearnMate"
+        />
       </a>
     </td>
 
     <td align="center">
       <a href="YOUR_DEVMIND_LIVE_URL">
-        <img src="https://img.shields.io/badge/DEVMIND-LIVE_DEMO-00E5FF?style=for-the-badge" alt="DevMind"/>
+        <img
+          src="https://img.shields.io/badge/DEVMIND-LIVE_DEMO-00E5FF?style=for-the-badge"
+          alt="DevMind"
+        />
       </a>
     </td>
+
   </tr>
 </table>
-
----
 
 ---
 
@@ -150,6 +157,36 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
   <img
     src="https://streak-stats.demolab.com?user=Nishantsot&theme=tokyonight&hide_border=true&border_radius=10"
     alt="Nishant Kumar GitHub Streak"
+  />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Nishantsot&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantsot&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Nishantsot&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Contribution Graph"
   />
 </p>
 
