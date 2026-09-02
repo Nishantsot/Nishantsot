@@ -1,37 +1,159 @@
-
 <svg xmlns="http://www.w3.org/2000/svg"
      width="1200"
      height="300"
      viewBox="0 0 1200 300">
 
-  <rect width="1200" height="300" fill="#030712"/>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#2e1065"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200"
+        height="300"
+        rx="20"
+        fill="url(#bg)"/>
+
+
+  <!-- Animated Stars -->
+
+  <circle cx="100" cy="50" r="2" fill="white">
+    <animate attributeName="opacity"
+             values="0.2;1;0.2"
+             dur="2s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="200" cy="220" r="2" fill="#22d3ee">
+    <animate attributeName="opacity"
+             values="1;0.2;1"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="320" cy="70" r="1.5" fill="white">
+    <animate attributeName="opacity"
+             values="0.2;1;0.2"
+             dur="2.5s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="850" cy="60" r="2" fill="#a855f7">
+    <animate attributeName="opacity"
+             values="1;0.2;1"
+             dur="2s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1000" cy="210" r="2" fill="white">
+    <animate attributeName="opacity"
+             values="0.2;1;0.2"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1110" cy="80" r="1.5" fill="#22d3ee">
+    <animate attributeName="opacity"
+             values="1;0.2;1"
+             dur="2.4s"
+             repeatCount="indefinite"/>
+  </circle>
+
+
+  <!-- Main Name -->
 
   <text x="600"
-        y="130"
+        y="115"
         text-anchor="middle"
         fill="#22d3ee"
         font-size="60"
         font-family="Arial"
-        font-weight="bold">
+        font-weight="bold"
+        filter="url(#glow)">
+
     Nishant Kumar
+
+    <animate attributeName="fill"
+             values="#22d3ee;#a855f7;#ec4899;#22d3ee"
+             dur="6s"
+             repeatCount="indefinite"/>
+
   </text>
 
+
+  <!-- Role -->
+
   <text x="600"
-        y="185"
+        y="170"
         text-anchor="middle"
         fill="white"
-        font-size="26"
-        font-family="Arial">
+        font-size="27"
+        font-family="Arial"
+        font-weight="bold">
+
     Full Stack Developer
+
   </text>
+
+
+  <!-- Animated Line -->
+
+  <rect x="450"
+        y="190"
+        width="300"
+        height="3"
+        rx="2"
+        fill="#22d3ee">
+
+    <animate attributeName="fill"
+             values="#22d3ee;#a855f7;#22d3ee"
+             dur="4s"
+             repeatCount="indefinite"/>
+
+  </rect>
+
+
+  <!-- Technologies -->
 
   <text x="600"
         y="230"
         text-anchor="middle"
-        fill="#a855f7"
+        fill="#cbd5e1"
         font-size="20"
         font-family="Arial">
-    Java • Spring Boot • React.js • GenAI
+
+    Java • Spring Boot • React.js • Python • GenAI
+
+  </text>
+
+
+  <!-- Bottom text -->
+
+  <text x="600"
+        y="265"
+        text-anchor="middle"
+        fill="#67e8f9"
+        font-size="16"
+        font-family="monospace">
+
+    Building Intelligent Full-Stack Applications
+
+    <animate attributeName="opacity"
+             values="0.4;1;0.4"
+             dur="3s"
+             repeatCount="indefinite"/>
+
   </text>
 
 </svg>
