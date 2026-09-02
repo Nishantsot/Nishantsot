@@ -22,119 +22,169 @@ Full Stack Developer | Java | Spring Boot | React.js | GenAI
   </a>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
-I am a Full Stack Developer working with Java, Spring Boot, React.js, REST APIs, MySQL and PostgreSQL.
-
-I am also learning and building applications using Generative AI, RAG and Gemini API.
-
----
-
-## 🚀 Projects
-
-### 🏢 Society Portal
-
-Role-based Society Management System built using:
-
-`React.js` `Spring Boot` `Spring Security` `MySQL`
-
-[🌐 Live Demo](https://society-frontend-39w5.onrender.com/)
-
----
-
-### 🎓 LearnMate
-
-Online Learning Management System built using:
-
-`Java` `Spring Boot` `Spring Security` `React.js` `MySQL`
-
-[🌐 Live Demo](https://learn-mate-frontend.vercel.app/)
-
----
-
-### 🧠 DevMind
-
-AI-Powered Software Engineering Assistant built using:
-
-`Python` `FastAPI` `React.js` `PostgreSQL` `Gemini API` `RAG` `JWT` `Docker`
-
----
-
-## 🛠️ Skills
-
-Java • JavaScript • Python
-
-React.js • Spring Boot • FastAPI
-
-MySQL • PostgreSQL
-
-Generative AI • RAG • Gemini API
-
-Git • GitHub • Docker • CI/CD
-
----
-
-<p align="center">
-⭐ Nishant Kumar ⭐
-</p>
----
-
-# 📊 GitHub Activity & Statistics
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Nishantsot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantsot&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+%2B+Spring+Boot+Developer;React.js+Developer;Generative+AI+Enthusiast;Building+AI-Powered+Applications"
+    alt="Typing Animation"
   />
 </p>
 
----
+<p align="center">
+  I am a <b>Full Stack Developer</b> working with Java, Spring Boot,
+  React.js, REST APIs, MySQL and PostgreSQL.
+</p>
+
+<p align="center">
+  Building and exploring applications using
+  <b>Generative AI, RAG and Gemini API.</b>
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/GenAI-AI_Development-8A2BE2?style=for-the-badge"/>
+
+</p>
+
+<br>
+
+# 🚀 Projects
+
+<p align="center">
+
+  <a href="https://society-frontend-39w5.onrender.com/">
+    <img
+      src="https://img.shields.io/badge/🏢_Society_Portal-Live_Demo-00C7B7?style=for-the-badge"
+      alt="Society Portal"
+    />
+  </a>
+
+  <br><br>
+
+  <a href="https://learn-mate-frontend.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/🎓_LearnMate-Live_Demo-8A2BE2?style=for-the-badge"
+      alt="LearnMate"
+    />
+  </a>
+
+  <br><br>
+
+  <a href="YOUR_DEVMIND_LIVE_URL">
+    <img
+      src="https://img.shields.io/badge/🧠_DevMind-Live_Demo-00E5FF?style=for-the-badge"
+      alt="DevMind"
+    />
+  </a>
+
+</p>
+
+<br>
+
+# ⚡ My Development Stack
+
+<p align="center">
+
+  <img
+    src="https://skillicons.dev/icons?i=java,spring,react,js,python,fastapi,mysql,postgres,docker,git,github,postman,vscode&perline=7"
+    alt="Development Stack"
+  />
+
+</p>
+
+<br>
+
+# 🛠️ Skills
+
+<details>
+<summary><b>💻 Programming Languages</b></summary>
+
+<br>
+
+`Java` • `JavaScript` • `Python`
+
+</details>
+
+
+<details>
+<summary><b>🎨 Frontend Development</b></summary>
+
+<br>
+
+`HTML` • `CSS` • `JavaScript` • `React.js` • `Bootstrap` • `Axios`
+
+</details>
+
+
+<details>
+<summary><b>⚙️ Backend Development</b></summary>
+
+<br>
+
+`Java` • `Spring Boot` • `FastAPI` • `REST APIs`
+
+</details>
+
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+
+<br>
+
+`MySQL` • `PostgreSQL`
+
+</details>
+
+
+<details>
+<summary><b>🤖 Generative AI & Machine Learning</b></summary>
+
+<br>
+
+`Generative AI` • `RAG` • `Gemini API` • `Scikit-learn` • `Pandas` • `NumPy`
+
+</details>
+
+
+<details>
+<summary><b>♾️ DevOps & Tools</b></summary>
+
+<br>
+
+`Git` • `GitHub` • `Docker` • `CI/CD` • `Vercel` • `Render` • `Postman` • `VS Code`
+
+</details>
+
+<br>
 
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Nishantsot&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Nishantsot&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="Nishant Kumar GitHub Streak"
   />
 </p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Nishantsot&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-  />
-</p>
-
----
-
-
----
-
-## ⚡ My Development Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,python,fastapi,mysql,postgres,docker,git,github,postman,vscode&perline=7"/>
-</p>
-
----
-
-## 💻 Developer Focus
-
-```text
-Frontend          React.js • JavaScript • Bootstrap
-Backend           Java • Spring Boot • FastAPI
-Database          MySQL • PostgreSQL
-AI                GenAI • RAG • Gemini API
-DevOps            Docker • Git • GitHub • CI/CD
-Deployment        Vercel • Render
+# 💻 Developer Focus
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  🎨 Frontend     → React.js • JavaScript • Bootstrap   │
+│                                                         │
+│  ⚙️ Backend      → Java • Spring Boot • FastAPI        │
+│                                                         │
+│  🗄️ Database     → MySQL • PostgreSQL                  │
+│                                                         │
+│  🤖 AI           → GenAI • RAG • Gemini API            │
+│                                                         │
+│  🐳 DevOps       → Docker • Git • GitHub • CI/CD       │
+│                                                         │
+│  🚀 Deployment   → Vercel • Render                     │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
